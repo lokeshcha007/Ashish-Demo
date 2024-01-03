@@ -1,17 +1,14 @@
-# Ashish-Demo
-This is my first GIT repository
+<!DOCTYPE html>
+<html>
+<head>
+<title>Hello World!</title>
+</head>
+<body>
 
-<br>
-<b>
-Author - P.Ashish
-  <br>
-<search>
-  <br>
-  java
-  <br>
-  intellij
-<br>
-  
-</search>
+<h1>Hello world!</h1>
+<p>This is the first file in my new Git Repo.</p>
+
+</body>
+</html>
 
 
